@@ -68,4 +68,5 @@ function greet(){
 ## Languages:
 * Ukrainian -  Native
 * English - Intermediate/Upper-intermediate
-  
+  ![EF SET Certificate](images/EF%20SET%20Certificate.png)
+  ![IELTS](images/IELTS_В2.jpg)
